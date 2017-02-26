@@ -1,7 +1,8 @@
-this is line 1 by branch 1
+this is line 1 by branch 1 modified by b2
 this is line 2 by modieifed by sub branch1
 this is line 3 by branch 1
 deleted by sub branch1
 this is line 5 by branch 1
-added by sub branch 1
+deleted by b2
 added by sub branch 2
+added by b2
