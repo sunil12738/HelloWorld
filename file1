@@ -1,6 +1,6 @@
-1this is line 1 by branch 1 modified by b2
-t1his is line 2 by modieifed by sub branch1
-th1is is line 3 by branch 1
+1this is line 1 by branch 1 modified by b2	b3
+t1his is line 2 by modieifed by sub branch1	b3
+th1is is line 3 by branch 1 b3
 del1eted by sub branch1
 this1 is line 5 by branch 1
 delet1ed by b2
@@ -9,4 +9,8 @@ added by b2i
 added by sb2
 sb3
 sb3
-sb3
+sb3i
+b3
+b3
+b3
+
